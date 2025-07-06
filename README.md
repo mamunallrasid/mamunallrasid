@@ -19,18 +19,19 @@ I'm a passionate and results-driven **Full-Stack Web Developer** from West Benga
 - **Frontend**: HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, jQuery  
 - **Backend**: PHP (Core + OOP), Laravel  
 - **Database**: MySQL, SQL  
-- **Tools**: Git, VS Code  
-- **Others**: SEO Optimization, Responsive Web Design, Google Search Console
+- **Tools**: Git, VS Code, Hostinger, WhatsApp API, SEO Tools, Google Search Console  
+- **Others**: API Integration, Responsive Web Design, Canonical Tag SEO, Mobile Optimization
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" />
 </div>
 
 ---
@@ -60,13 +61,14 @@ I'm a passionate and results-driven **Full-Stack Web Developer** from West Benga
 
 ---
 
-## 📈 SEO & Web Optimization Skills
+## 📈 SEO & Optimization Skills
 
-- On-page SEO (Meta Tags, Alt Tags, Headings)  
-- Technical SEO (Schema, robots.txt, sitemap.xml)  
-- Google Search Console Configuration  
-- Performance Optimization  
-- Canonical URL Management  
+- Meta Titles & Descriptions  
+- Image Alt Attributes & Structured Data  
+- Sitemap.xml & robots.txt  
+- Canonical Tags & Technical SEO  
+- Google Search Console Setup  
+- Mobile Performance & Speed Optimization
 
 ---
 
@@ -96,13 +98,11 @@ I'm a passionate and results-driven **Full-Stack Web Developer** from West Benga
 
 ## 🎯 Goals
 
-- 🧠 Master advanced Laravel and JS frameworks  
-- 🏗️ Build open-source tools for educational and healthcare sectors  
-- 🌍 Collaborate with international teams on real-world products  
-- 📚 Constantly evolve as a developer and digital problem solver
+- 🧠 Master modern Laravel & REST APIs  
+- 💡 Launch my own open-source web tools  
+- 🌎 Collaborate with developers worldwide  
+- 📚 Keep learning, building, and growing
 
----
-
-> “Code is not just about syntax. It’s about solving problems that matter.”
+> “Code is not just about syntax. It’s about solving problems that matter.”  
 
 Thanks for visiting! ⭐
