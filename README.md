@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mamun All Rasid — Full-Stack Web Developer
 
-I'm a passionate and results-driven **Full-Stack Web Developer** from West Bengal, India, with a strong academic background and hands-on experience in scalable web solutions across healthcare, education, government, and nonprofit sectors.
+I'm a passionate and results-driven **Full-Stack Web Developer** from West Bengal, India, with a strong academic background and hands-on experience in scalable web solutions across healthcare, education, government, nonprofit, construction, and retail sectors.
 
 ---
 
